@@ -1,0 +1,9 @@
+[
+  { "value": "velib", "name": "Paris" },
+  { "value": "santander-cycles", "name": "London" },
+  { "value": "stadtrad-hamburg", "name": "Hamburg" },
+  { "value": "nextbike-praha", "name": "Prague" },
+  { "value": "wienmobil-rad", "name": "Vienna" },
+  { "value": "bikemi", "name": "Milan" },
+  { "value": "wrm-wroclaw", "name": "Wroclaw" }
+]
